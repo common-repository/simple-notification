@@ -1,0 +1,351 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Cart Drawer For WooCommerce\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;SetTitle;AddInfo;AddError;SetSubtitle;___\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: dev_files\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Loading.."
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "No change for update"
+msgstr ""
+
+msgid "Saved Successfully"
+msgstr ""
+
+#, php-format
+msgid "%s should be digit"
+msgstr ""
+
+#, php-format
+msgid "%s should be numeric"
+msgstr ""
+
+#, php-format
+msgid " %s should be less then %s"
+msgstr ""
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr ""
+
+msgid " should be hexadecimal"
+msgstr ""
+
+#, php-format
+msgid " %s are required"
+msgstr ""
+
+#, php-format
+msgid " %s is required"
+msgstr ""
+
+msgid "E004"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+msgid "Button Title"
+msgstr ""
+
+msgid "Notification Button Title"
+msgstr ""
+
+msgid "Button Link"
+msgstr ""
+
+msgid "ex. https://www.example.com"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Notification Body"
+msgstr ""
+
+msgid "Body Color"
+msgstr ""
+
+msgid "Notification Body Color"
+msgstr ""
+
+msgid "Body Text Color"
+msgstr ""
+
+msgid "Notification Body Text Color"
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Notification Button Color"
+msgstr ""
+
+msgid "Button Text Color"
+msgstr ""
+
+msgid "Notification Button Text Color"
+msgstr ""
+
+msgid "Link Hover Color"
+msgstr ""
+
+msgid "Notification Link Hover Color"
+msgstr ""
+
+msgid "Notification Type"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Page List"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "View Style"
+msgstr ""
+
+msgid "Select1"
+msgstr ""
+
+msgid "Select2"
+msgstr ""
+
+msgid "Select3"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+#, php-format
+msgid "Recommended by %s"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Tutorials"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Apbd Simple Notification List"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "View Notification List"
+msgstr ""
+
+msgid "Add New Notification "
+msgstr ""
+
+msgid "Successfully added"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "Edit Notification"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "Are you sure to delete?"
+msgstr ""
+
+msgid "Invalid Request"
+msgstr ""
+
+msgid "Successfully deleted"
+msgstr ""
+
+msgid "Delete failed try again"
+msgstr ""
+
+msgid "Successfully Updated"
+msgstr ""
+
+msgid "Update failed try again"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+#, php-format
+msgid "It will redirect within %s second(s)"
+msgstr ""
+
+#, php-format
+msgid "Close in %s second(s)"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Mini Cart Drawer"
+msgstr ""
+
+msgid "By appsbd"
+msgstr ""
+
+msgid ""
+"It will display a nice mini cart into your woocommerce site, you can configure it as you want. It has a nice very easy pro active control panel, also you can configure using WP Customizer.\n"
+"                            Also it has another module for sale booster. You can attract your customers to purchase more items by offering many dynamic discounts, you can offer to your customer, like, “if you spend 20USD more, then, you will get 2USD discount”.\n"
+"                          "
+msgstr ""
+
+msgid "Multi Currency For WooCommerce"
+msgstr ""
+
+msgid "By palscode"
+msgstr ""
+
+msgid ""
+"WC Multi currency is a prominent currency switcher plugin for WooCommerce. \n"
+"                            This plugin allows your website or online store visitors to switch to their preferred currency or their country’s currency.\n"
+"                             WC Multicurrency has the option to select currencies that you want to enable on your online store. Currency rates can be set automatically or manually\n"
+msgstr ""
+
+msgid "Elite Licenser For WooCommerce"
+msgstr ""
+
+msgid ""
+"Elite Licenser is a WordPress plugin for any types of product \n"
+"                            licensing. It also manages product updates, auto generates license code,\n"
+"                             built in Envato licensing verification system, full license control and more.\n"
+"                              It has full set of API, so you can handle it by any types of applications."
+msgstr ""
+
+msgid "All Related Videos"
+msgstr ""
+
+msgid "Main object has not initialized in controller"
+msgstr ""
+
+msgid "Button Setup"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Link ex. https://example.com"
+msgstr ""
+
+msgid "New Tab"
+msgstr ""
+
+msgid "Display Animation"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Body Text Size"
+msgstr ""
+
+msgid "Notification Body Height"
+msgstr ""
+
+msgid "value 0, means auto height"
+msgstr ""
+
+msgid "Display Delay"
+msgstr ""
+
+msgid "Home Page"
+msgstr ""
+
+msgid "All Page"
+msgstr ""
+
+msgid "Specific Page"
+msgstr ""
+
+msgid "Hidden Page"
+msgstr ""
+
+msgid "Select Page List"
+msgstr ""
+
+msgid "Is Fixed"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Notification List"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Global Settings"
+msgstr ""
+
+msgid "Hide in session on close"
+msgstr ""
+
+msgid "If you enable it then, if visitor close a notification then, that notification won't show again on that session "
+msgstr ""
+
+#, php-format
+msgid "Are you sure to %s?"
+msgstr ""
+
+msgid "No notification added"
+msgstr ""

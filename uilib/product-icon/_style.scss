@@ -1,0 +1,75 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?670c65');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?670c65#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?670c65') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?670c65') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?670c65##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.abp {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.abp-appsbd {
+  &:before {
+    content: $abp-appsbd; 
+  }
+}
+.abp-elite-licenser {
+  &:before {
+    content: $abp-elite-licenser; 
+  }
+}
+.abp-elite-licenser-ma-addon {
+  &:before {
+    content: $abp-elite-licenser-ma-addon; 
+  }
+}
+.abp-wc-multi-currency {
+  &:before {
+    content: $abp-wc-multi-currency; 
+  }
+}
+.abp-mca-logo {
+  &:before {
+    content: $abp-mca-logo; 
+  }
+}
+.abp-mca-logo-pro {
+  &:before {
+    content: $abp-mca-logo-pro; 
+  }
+}
+.abp-logo-freetrial {
+  &:before {
+    content: $abp-logo-freetrial; 
+  }
+}
+.abp-simple-notification {
+  &:before {
+    content: $abp-simple-notification; 
+  }
+}
+.abp-top-bar-notification {
+  &:before {
+    content: $abp-top-bar-notification; 
+  }
+}
+
